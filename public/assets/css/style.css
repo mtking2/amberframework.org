@@ -153,6 +153,8 @@ li>code {
     z-index: 4;
     overflow: hidden;
     position: fixed;
+    top: 3.8rem;
+    bottom: 0;
 }
 
 .main-content-full {
@@ -191,12 +193,11 @@ li>code {
 }
 
 .sidebar-toggler {
-    margin-left: 270px;
+    margin-left: 260px;
 }
 
 #sidebar-wrapper {
     overflow-y: auto;
-    height: 98%;
 }
 
 blockquote {
